@@ -1,0 +1,5 @@
+SOUMIK 100
+MOIN 50
+robin 7
+ashik 5
+abc 2
