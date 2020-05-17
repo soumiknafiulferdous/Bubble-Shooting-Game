@@ -1,6 +1,6 @@
 # Bubble Shooting Game with iGraphics
 
-## Instruction
+## How to play
 
 1. For a successful hit in ‘Bubble’, the score will be increased. 
 
