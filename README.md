@@ -2,7 +2,7 @@
 
 ## Instruction
 
-1. For a successful hit in ‘bubble’, the score will be increased. 
+1. For a successful hit in ‘Bubble’, the score will be increased. 
 
 2. A single miss will decrease the game-life. 
 
@@ -12,7 +12,7 @@
 
 5. Click ‘Load’ button for starting the game from where it was previously saved. 
 
-6. Press the ‘ESC’ button to pause the game. 
+6. Press the ‘Esc’ button to pause the game. 
 
-7. Press ‘ESC’ button again to resume the game.
+7. Press ‘Esc’ button again to resume the game.
 
