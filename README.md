@@ -2,7 +2,7 @@
 
 ## Instruction
 
-I. For a successful hit in ‘bubble’, the score will be increased. 
+1. For a successful hit in ‘bubble’, the score will be increased. 
 
 2. A single miss will decrease the game-life. 
 
