@@ -1,7 +1,6 @@
 # Bubble Shooting Game with iGraphics
 
 This game has different difficulty levels, score-card, bonus life, pause, resume and saving features.
-Language: C++ with iGraphics
 
 ## How to play
 
